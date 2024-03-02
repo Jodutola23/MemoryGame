@@ -1,0 +1,27 @@
+.meme-generator{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin: 20px auto;
+    width: 400px;
+}
+
+.meme-generator label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.meme-generator input{
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+#meme-space{
+    width: 100%;
+    align-items: center;
+}
+
+body{
+    background-color: antiquewhite;
+}
